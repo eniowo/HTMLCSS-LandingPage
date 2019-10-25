@@ -120,12 +120,12 @@ section {
 .account a {font-size: 14px;}
 
 
-.profile-pic{
+.profile-pic {
     width: 60px;
     height: 60px;
 }
 
-.profile-pic img{
+.profile-pic img {
     border-radius: 100px;
     max-width: 100px;
 }
