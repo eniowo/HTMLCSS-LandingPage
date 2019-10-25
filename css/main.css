@@ -237,7 +237,7 @@ left: -30px;
 .full-banner-sidebar h4:after {
     content: "";
     width: 100px;
-    height: 100px;
+    height: 1px;
     background-color: #faa541;
     margin: 20px auto;
     display: block;
