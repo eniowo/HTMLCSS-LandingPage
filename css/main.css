@@ -203,7 +203,7 @@ left: -30px;
     margin: 50px 0;
     position: relative;
 }
-.full-banner :before{
+.full-banner:before{
     content: "";
     position: absolute;
     border: 1px solid white;
@@ -234,7 +234,7 @@ left: -30px;
     color: #637f94;
     line-height: 1;
 }
-.full-banner-sidebar h4 :after {
+.full-banner-sidebar h4:after {
     content: "";
     width: 100 1;
     height: 100 1;
