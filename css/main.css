@@ -60,3 +60,68 @@ section {
     font-size: 16px;
     color: #364147;
 }
+.header-nav{
+    border-bottom: 1px;
+    color: #a0a0a0;
+}
+
+.brand{
+    size: 170px 85px;
+    margin-left: -15px;
+    margin-right: 60px;
+}
+
+.logo{
+    max-width: 100%;
+    height: auto;
+}
+
+.search-box{
+    size: 330px 30px;
+    padding: 6px 12px;
+    border: 1px #a0a0a0;
+}
+
+.search-button{
+    background-color: #a0a0a0;
+    color: white;
+    size: 100px 30px;
+    border: 0;
+    padding: 0;
+}
+
+.nav-list{
+    padding-left: 0;
+    width: 575px;
+    margin-top: 10px;
+}
+
+.nav-list li a{
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+}
+
+.profile{
+    margin-left: auto;
+}
+
+.account{
+    text-align: right;
+    padding: 15px;
+    color: #364147;
+    font-size: 18px;
+}
+
+.account > li{
+    font-size: 14px;
+}
+
+.profile-pic{
+    size: 60px 60px;
+}
+
+img > .profile-pic{
+    border-radius: 100px;
+    max-width: 100px;
+}
